@@ -1,0 +1,21 @@
+# Data files (too large for GitHub)
+*.csv
+*.xlsx
+data/
+cleaned_*.csv
+rfm_analysis.csv
+association_rules.csv
+extended_rules.csv
+customer_baskets.csv
+
+# Jupyter checkpoints and outputs
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Logs and temp files
+__pycache__/
+*.pyc
+.DS_Store  # Mac users
+
+# Large images or outputs
+screenshots/large_plots.png
