@@ -45,7 +45,7 @@ To run this notebook, you will need:
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone (https://github.com/Basmala-ElKady/OnlineRetail-DataMining.git)
+   git clone https://github.com/Basmala-ElKady/OnlineRetail-DataMining.git
 
 2. Install dependencies:
    ```bash
